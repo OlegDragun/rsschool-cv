@@ -1,15 +1,12 @@
 ![my foto](https://s3.vcdn.biz/static/f/1718724981/image.jpg/pt/r0x284x4)  
 ***  
-
-git commit -m 'feat: add first part cv'
-
 # **DRAGUN OLEG**  
 Jr.Front-end Developer  
 ## CONTACT  
 * tel: +37529 7562908
 * mail: oleg.k.dragun@gmail.com
 * discord: oleginio#6371  
-***
+***  
 ### OBOUT ME    
 I want to obtain a position as an Jr.Front-end Developer  
 ### SKILLS
@@ -23,8 +20,7 @@ I want to obtain a position as an Jr.Front-end Developer
 ```function multiply(a, b){
   a * b
 };
-```
-
+```  
 ### EXPIRIENCE  
 my CV.MD
 ### EDUCATION  
@@ -37,6 +33,6 @@ WebStork course: JS for beginner
 ### LANGUAGES
 russian (native)
 english - A2(StreamLine Language School: Pre-Intermediate)  
-***
+***  
 ### INTEREST
 football, gym, self-study
