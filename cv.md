@@ -34,3 +34,9 @@ ru.code-basics.com
 UDEMY course: "WEB developer 2021"
 book: "JavaScript for children"
 WebStork course: JS for beginner
+### LANGUAGES
+russian (native)
+english - A2(StreamLine Language School: Pre-Intermediate)  
+***
+### INTEREST
+football, gym, self-study
