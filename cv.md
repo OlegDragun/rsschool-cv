@@ -8,8 +8,8 @@ Jr.Front-end Developer
 * mail: oleg.k.dragun@gmail.com
 * discord: oleginio#6371  
   
-  ***  
-## OBOUT ME    
+***  
+## ABOUT ME    
 I want to obtain a position as an Jr.Front-end Developer  
 ## SKILLS
 * html 
