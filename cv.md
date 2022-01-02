@@ -10,3 +10,27 @@ Jr.Front-end Developer
 * mail: oleg.k.dragun@gmail.com
 * discord: oleginio#6371  
 ***
+### OBOUT ME    
+I want to obtain a position as an Jr.Front-end Developer  
+### SKILLS
+* html 
+* css 
+* js 
+* git
+* react
+* figma  
+### EXAMPLE CODE
+```function multiply(a, b){
+  a * b
+};
+```
+
+### EXPIRIENCE  
+my CV.MD
+### EDUCATION  
+Belarusian National Technical University (economist - manager) 
+htmlacademy.ru
+ru.code-basics.com
+UDEMY course: "WEB developer 2021"
+book: "JavaScript for children"
+WebStork course: JS for beginner
