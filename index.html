@@ -4,49 +4,131 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
+    <title>cv</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
 </head>
 <body>
-    <div class="all_text">
-        <h1>Junior Developer Resume</h1>
-        <h2>Oleg Dragun</h2>
-        <h2>Contact:</h2>
-        <ul>
-          <li>E-mail: oleg.k.dragun@gmail.com</li>
-          <li>Tel: +375297562908</li>
-          <li>Skype: Oleg Dragun</li>
+  <div class="wrapper" lang="en">
+    <header>
+      <div id="ava">
+        <img class="displayed" src="img/mtsbw.png" alt="my foto">
+      </div>
+      <h1 class="name"> 
+        DRAGUN OLEG <br>
+        Jr. Front-end Developer
+       </h1>
+      <hr>
+      <nav class="navigation">
+        <ul >
+          <li><a href="#contact">CONTACT</a></li>
+          <li><a href="#about">ABOUT ME</a></li>
+          <li><a href="#skills">SKILLS</a></li>
+          <li><a href="#example">EXAMPLE CODE</a></li>
+          <li><a href="#expirience">EXPIRIENCE</a></li>
+          <li><a href="#education">EDUCATION</a></li>
+          <li><a href="#languages">LANGUAGES</a></li>
+          <li><a href="#interest">INTEREST</a></li>
+        </ul>  
+      </nav>
+      <hr>
+    </header>
+  
+  <main>
+    <div>
+      <h2 id="contact">CONTACT:</h2>
+        <ul class="ul-nav">
+            <li>tel: +37529 7562908</li>
+            <li>mail: oleg.k.dragun@gmail.com</li>
+            <li>discord: oleginio#6371 </li>
+            <li>github: <a href="https://github.com/OlegDragun" target="_blank">github.com/OlegDragun</a></li>
         </ul>
-        <h2>Summary:</h2>
-          <p>
-            Today my goal is to get enough practical and theoretical knoweledge to become a developer. Now, I have extensive experience in various areas from supply to sales, including in management positions. In all areas, I had to learn a lot and lern new things, which I liked very much . At this point, I realized that I`m very intrested in the IT industry where I want to develop.   
-          </p>
-        <h2>Skills:</h2>
-          <p>
-            At the moment I have basic knoweledge and understandinf of:   
-          </p>
-        <ul>
-          <li>Basic HTMLL 5 and CSS;</li>
-          <li>Vs code, Figma;</li>
-          <li>Basic SQL;</li>
-          <li>Git;</li>
-          <li>JS;</li>
-          <li>QA;</li>
-        </ul>
-        <h2>Experience:</h2>
-        
-        <h2>Education: </h2>
-        <p>
-          Igraduated from BNTU and a lot of courses and seminars from 
-          presentation in PP to sales (corporate training: PRACA. by, 
-          Grevcova Holding, MTS (Moscow), Gazpromneft (RB)).
+    </div>
+
+    <div>
+      <h2 id="about-me">ABOUT ME:</h2>  
+        <p class="about">I want to obtain a position as an Jr.Front-end Developer.<br>
+        Today my goal is to get enough practical and theoretical knoweledge to become a developer. Now, I have extensive experience in various areas from supply to sales, including in management positions.<br>
+          In all areas, I had to learn a lot and lern new things, which I liked very much . At this point, I realized that I`m very intrested in the IT industry where I want to develop. 
         </p>
-            <h2>English:</h2>
-            <p>
-              I have an A2-B1 level of English,
-              but every day I try to improve it triugh online and books.  
-            </p>
-        </div>
-        
+    </div> 
+
+    <div>
+        <h2 id="skills">SKILLS:</h2>
+          <ul class="ul-skills">
+            <li>html </li>
+            <li>css </li>
+            <li>js </li>
+            <li>git</li>
+            <li>react</li>
+            <li>figma</li>
+          </ul>
+    </div>
+
+    <div>
+        <h2 id="example">EXAMPLE CODE:</h2>
+          <p>
+            <code>
+            function multiply(a, b){
+              a * b
+            };
+          </code>
+        </p>
+    </div>
+
+    <div>
+      <h2 id="expirience">EXPIRIENCE:</h2>
+      <p>You can see my <a href="https://github.com/OlegDragun/rsschool-cv/blob/gh-pages/cv.md" target="_blank">cv.md here</a> </p>
+    </div>
+
+    <div>
+      <h2 id="education">EDUCATION:</h2>
+          <ul class="ul-education">
+            <li>Belarusian National Technical University (economist - manager)</li>
+            <li>htmlacademy.ru</li>
+            <li>ru.code-basics.com</li>
+            <li>UDEMY course: "WEB developer 2021"</li>
+            <li>book: "JavaScript for children"</li>
+            <li>WebStork course: JS for beginner</li>
+          </ul>
+    </div>
+
+    <div>
+      <h2 id="languages">LANGUAGES:</h2>
+      <ul class="ul-languages">
+        <li>russian (native)</li>
+        <li>english - A2(StreamLine Language School: Pre-Intermediate) </li>
+      </ul>
+    </div>
+
+    <div>
+      <h2 id="interest">INTEREST:</h2>
+      <ul class="ul-interest">
+        <li>football</li>
+        <li>gym</li>
+        <li>self-study</li>
+      </ul>
+    </div>
+      <hr>
+  </main>
+
+  <footer>
+
+    <div class="footer">
+      <ul >
+        <li>2022</li>
+        <li> <a href="https://rs.school/js/" target="_blank" title="RS Shool»"> <img src="img/rssblack.png" alt="rsschool" /></a> </li>
+        <li><a href="https://github.com/OlegDragun" target="_blank" title="GitHub OlegDragun"><img src="img/gitwhite.png" alt="github" /></a></li>
+      </ul>  
+    </div>
+
+  </footer>
+    
+</div>    
 </body>
+
 </html>
+
+
+
+
